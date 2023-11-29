@@ -1,4 +1,4 @@
-To reproduce the error just run `npm run dev` and open `http://localhost:3000/api/graphql in your browser. You will encounter an error thrown by graphql:
+To reproduce the error just run `npm run dev` and open http://localhost:3000/api/graphql in your browser. You will encounter an error thrown by graphql:
 
 ```
 Error: Cannot use GraphQLNonNull "String!" from another module or realm.
